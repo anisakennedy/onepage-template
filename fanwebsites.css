@@ -1,0 +1,12 @@
+/* Set the font for the whole website */
+body {
+    font-family: 'CCokerHand1Medium', sans-serif, Arial; 
+    font-weight: normal; 
+    font-style: normal;
+    background-color: #FFFFFF;
+    font-size: 16px;
+    /*font-size: 100%;*/
+}
+
+
+
